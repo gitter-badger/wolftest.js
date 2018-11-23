@@ -1,4 +1,4 @@
-[logo]: https://github.com/Wolfpack-Digital/wolftest.js/raw/master/logo.png
+![Wolfpack Logo](https://raw.githubusercontent.com/Wolfpack-Digital/wolftest.js/master/logo.png)
 
 # Wolftest.js
 
